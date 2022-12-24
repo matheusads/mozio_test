@@ -17,7 +17,7 @@ docker files.
 
 I used Yapf and Isort to format the files.
 
-There's some unit tests in api/tests but is necessary create other for exceptions cases for example.
+There's some unit tests in api/tests but is necessary create more for exceptions cases for example.
 
 Was a great experience code this a
 
